@@ -1,0 +1,12 @@
+{
+  "name": "my_random_number_package",
+  "version": "1.0.0",
+  "description": "Generates random integer from some interval.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marina Chernykh",
+  "license": "ISC"
+}
